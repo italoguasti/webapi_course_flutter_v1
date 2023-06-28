@@ -1,0 +1,19 @@
+{
+  "learnhttp": {
+    "content": "Test 1"
+  },
+  "journals": [
+    {
+      "id": "ae005be0-15bf-11ee-8739-79c48cd9ffc8",
+      "content": "",
+      "created_at": "2023-06-28 14:25:49.730051",
+      "updated_at": "2023-06-28 14:25:49.730063"
+    },
+    {
+      "id": "af9071c0-15bf-11ee-8739-79c48cd9ffc8",
+      "content": "Segunda-feira é assim",
+      "created_at": "2023-06-18 14:25:50.271566",
+      "updated_at": "2023-06-18 14:25:50.271566"
+    }
+  ]
+}
